@@ -1,0 +1,24 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+header {
+    border: 2px solid wheat;
+}
+
+main {
+    border: 2px solid cyan
+}
+
+footer {
+    border: 2px dotted darkred;
+}
+
+h1 {
+    color: wheat
+}
+
+h3 {
+    color: turquoise;
+}
