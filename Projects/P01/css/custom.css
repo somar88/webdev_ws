@@ -8,6 +8,7 @@ body {
         Times,
         'Times New Roman',
         serif;
+    background-color: #d8ebe4;
 }
 
 .logo {
@@ -29,8 +30,11 @@ body {
     padding-right: 5px;
     color: White;
     font-size: 25px;
-    background-color: gold;
-    border: 1px solid black;
+    background-color: lightsteelblue;
+}
+
+.main-nav-item.selected {
+    background-color: cyan;
 }
 
 .main-nav-item:hover {
